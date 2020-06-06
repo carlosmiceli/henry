@@ -13,6 +13,6 @@
       "author": "",
       "license": "ISC",
       "jest": {
-          "testURL": "http://localhost/"
-        }
+            "testURL": "http://localhost/"
+      }
 }

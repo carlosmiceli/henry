@@ -1,0 +1,5 @@
+* Variables: contenedores de conceptos, valores, etc. Como un paquete con algo adentro.
+* Strings: Valores de letras dentro de las variables, todo lo que sea texto. 
+* Funciones (argumentos, `return`): procesos que generan un resultado según los datos que les demos.
+* Declaraciones `if`: flujos que siguen las funciones según los datos que les demos, como un río que se divide.
+* Valores booleanos (`true`, `false`): valores si o no para verificar si algo se cumple.

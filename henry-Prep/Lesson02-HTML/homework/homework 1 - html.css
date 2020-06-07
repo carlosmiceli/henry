@@ -5,8 +5,15 @@ body {
 h1 {
 	color: red;
 }
+
+h3 {
+	background-color: yellow;
+}
+
+
 p {
 	color: blue;
+	background-color: yellow;
 }
 img {
 	width: 400px;
@@ -14,7 +21,7 @@ img {
 
 div {
 	margin:auto;
-	text-align:center;
+	text-align:center;	
 }
 
 #thirdDiv {

@@ -1,0 +1,3 @@
+* `prototype`: Categoría de objetos con propiedades predeterminadas y subcategorias.
+
+* _Constructors_ (de Clases): Series de propiedades a aplicar a todos los objetos dentro de alguna categoría/prototipo/clase.
